@@ -1,2 +1,5 @@
 # ignores git file #
 ./.git/
+
+# adding package json file to ignore
+./package.json
